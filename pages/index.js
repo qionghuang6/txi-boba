@@ -39,7 +39,7 @@ export default function Index() {
       <Box m={1}>
         <Box bgcolor='lightblue' m={2} p={2} borderRadius={5}>
           <Typography align='center' variant={matches ? 'h3' : 'h4'} fontWeight={500}>
-            theta xi boba distribution network
+            <a href='http://txi.mit.edu/'>theta xi</a> boba distribution network
           </Typography>
         </Box>
         <Box justifyContent="center">
